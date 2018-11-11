@@ -1,4 +1,4 @@
-/*2.Try trykutnyky zadani svoimy storonamy A, V ta S. 
+/*2.Try trykutnyky zadani svoimy storonamy A, B ta C. 
 Za dopomohoiu formuly Herona obchyslyty ploshchi trykutnykiv ta vyznachyty,
 ploshcha yakoho z nykh ye naibilshoiu.
 */
