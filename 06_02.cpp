@@ -9,7 +9,7 @@ ploshcha yakoho z nykh ye naibilshoiu.
 using namespace std;
 double arr_square[3];
 void input(int n);
-double square(double A,double B,double C);
+double area(double A,double B,double C);
 double max_square();
 int _tmain(int argc, _TCHAR* argv[]){
 	for (int n = 1; n <= 3; n++){
